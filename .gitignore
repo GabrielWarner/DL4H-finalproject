@@ -1,0 +1,47 @@
+# from /content/DL4H-finalproject
+cat > .gitignore << 'EOF'
+# --- Project data & outputs ---
+data/
+project/data/
+project/ckpt/
+project/logs/
+project/figs/
+
+# --- Python / build ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+# (optional) ignore large notebook outputs
+# *.ipynb
+
+# --- Models / weights / artifacts ---
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.safetensors
+
+# --- Env / secrets ---
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# --- Editors / OS ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+EOF
+
+git add .gitignore
+git commit -m "Add .gitignore to keep data/checkpoints/secrets out of repo"
+git push

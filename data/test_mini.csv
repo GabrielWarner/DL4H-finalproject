@@ -1,1 +1,1001 @@
-
+report_id,sentence_id,text,label
+10796,3,"No focal pneumonia, pneumothorax, effusion, or edema.",abnormal
+24286,1,Tracheostomy.,uncertain
+17750,0,Interval improvement in bilateral pleural effusions and edema.,abnormal
+2241,5,Cardiac silhouette is unchanged.,uncertain
+14240,6,A defibrillator wire ends in the right atrium.,uncertain
+9338,0,Left lateral right base opacity most likely represent atelectasis in combination with overlying soft tissue.,abnormal
+4263,1,Endotracheal tube tip projects over the mid thoracic trachea.,uncertain
+9795,0,Endotracheal and enteric tubes in standard positions.,uncertain
+20315,0,Improved left lower lobe atelectasis or pneumonia.,abnormal
+18875,3,There is no pneumothorax.,abnormal
+19140,3,The mediastinal and hilar contours appear within normal limits.,uncertain
+358,1,"Right central venous line is in stable position at the mid SVC, and the left PICC line ends near the cavoatrial junction.",uncertain
+14368,7,There are no acute osseous abnormalities and no evidence of pulmonary vascular congestion.,uncertain
+16707,1,No pneumothorax.,abnormal
+12685,1,"Compared to the prior film, the tubing to the left of the spine, presumably an NG tube, has been removed.",uncertain
+14593,1,A Dobbhoff tube is visualized with the tip coiled in the stomach.,uncertain
+19633,4,"No pleural effusion, pneumothorax, or focal consolidation.",abnormal
+9794,8,The cardiac and mediastinal silhouettes are unremarkable.,uncertain
+25667,7,Mediastinal contour appears within normal limits.,uncertain
+22816,4,Additional linear bibasilar opacities are consistent with atelectasis.,abnormal
+7734,3,Scattered left basal pulmonary opacities are new and suggest atelectasis.,abnormal
+17955,3,"Left greater than right bibasilar opacities are relatively unchanged, as are a moderate right pleural effusion and moderate-to-large left pleural effusion.",abnormal
+20293,6,Masses within the left upper lobe and left suprahilar region appear grossly unchanged as does widening of the superior mediastinal contour due to known lymphadenopathy.,uncertain
+29084,6,The patient's reported right upper lobe spiculated opacity seen on prior PET-CT from was better evaluated on that study.,abnormal
+16226,6,Bilateral pleural effusions are small-to-moderate and involve the major fissure on the right.,abnormal
+13222,5,"There is no new focal consolidation, pleural effusion, or pneumothorax.",abnormal
+15106,4,The cardiomediastinal silhouette is stable.,uncertain
+12744,7,No evidence of pneumoperitoneum under the right hemidiaphragm.,uncertain
+15950,3,The cardiomediastinal silhouette is unremarkable.,uncertain
+1281,0,No evidence of acute disease.,uncertain
+29310,0,"Large amount of free intraperitoneal air, as discussed by telephone with Dr.",uncertain
+1882,2,There are perihilar opacities and increased interstitial markings compatible with pulmonary edema.,abnormal
+26434,2,Asymmetric opacities throughout the right lung have also improved.,uncertain
+4280,4,Patchy bibasilar atelectasis is present.,abnormal
+17201,4,Right internal jugular venous catheter terminates in mid SVC.,uncertain
+4999,1,Left IJ central venous catheter terminates in cavoatrial junction.,uncertain
+18632,6,Cardiomediastinal silhouette appears grossly unremarkable.,uncertain
+12330,0,Right internal jugular central venous line terminates in the upper right atrium and should be slightly retracted.,uncertain
+13804,2,The heart is normal in size.,uncertain
+1908,5,No pneumothorax has developed.,abnormal
+3078,6,No pleural effusion or pneumothorax is present.,abnormal
+9674,9,No acute osseous abnormality.,normal
+26680,1,Significantly improved opacification of the left retrocardiac region with persistent opacity at the periphery of the left midlung.,abnormal
+15905,2,Small bilateral pleural effusions are unchanged.,abnormal
+30114,3,Increasing linear basilar opacities likely worsening atelectasis.,abnormal
+20848,1,There are relatively low lung volumes with bibasilar atelectasis.,abnormal
+21893,0,Persistent but slightly decreased right-sided pneumothorax.,abnormal
+1800,2,Focal opacity at the left base appears more conspicuous compared with prior studies dating back to .,abnormal
+23021,4,Lungs appear hyperinflated.,uncertain
+12327,0,Suspect increased density in the right lower lobe.,uncertain
+15835,6,No definite change in the overall cardiac cardiomediastinal silhouette or prominent pulmonary arteries.,uncertain
+23154,5,The cardiomediastinal silhouette is within normal limits.,uncertain
+23988,1,Lung volumes are low with mild platelike atelectasis in the right lung base.,abnormal
+20718,2,on .,uncertain
+11967,4,"by , M.",uncertain
+12128,9,The visualized bony structures are unremarkable in appearance.,uncertain
+7523,5,No pneumothorax is identified.,abnormal
+7744,2,There is moderate cardiomegaly.,abnormal
+29704,2,Single semi-erect view of the chest was obtained.,uncertain
+24317,1,"Again seen are bilateral lower lobe, right greater than left, basal predominant opacities consistent with known bronchiectasis.",uncertain
+22808,7,Focal lucency at the left lateral lung base is unchanged in consistent with focally severe emphysema seen on prior CT from .,abnormal
+21013,4,Low lung volumes results in bronchovascular crowding.,uncertain
+4630,6,"The heart and mediastinum are not enlarged, and likely displaced by a moderate hiatal hernia.",abnormal
+1928,7,Multilevel thoracic spine stabilization hardware is again seen.,uncertain
+9331,1,This appearance could represent some accumulating pleural effusion noting the setting of recent active bleeding although it is possibly due to repositioning of fluid.,abnormal
+2962,3,Probable moderate cardiomegaly.,abnormal
+22113,2,There is a dense left retrocardiac opacity obscuring the left heart border and left hemidiaphragm.,abnormal
+15145,2,The cardiac silhouette is mildly enlarged.,abnormal
+23154,0,"Right lower lung partially calcified mass lesion does not appear to have progressed since PET-CT from , based on single frontal chest x-ray.",abnormal
+333,1,"Otherwise, little change from .",uncertain
+1193,5,This can be advanced -15cm for more appropriate positioning.,uncertain
+28143,1,Midline sternotomy wires are unchanged.,uncertain
+3655,5,Pleural surfaces are clear without effusion or pneumothorax.,abnormal
+16868,2,The patient is status post previous median sternotomy and coronary artery bypass surgery with stable appearance of the sternotomy site and unchanged cardiomediastinal contours.,uncertain
+17750,6,"Large right pleural effusion has decreased in size, now moderate.",abnormal
+17986,2,The cardiomediastinal contours are unchanged.,uncertain
+12311,8,The cardiomediastinal and hilar contours are within normal limits.,uncertain
+5246,1,The presence of pneumonic infiltrate at the bases cannot be excluded.,abnormal
+26518,1,Underlying pneumonia in the lower lobes cannot be ruled out.,abnormal
+16069,6,The lungs appear clear without definite signs of pneumonia or overt CHF.,abnormal
+15990,0,No acute intrathoracic abnormality.,uncertain
+26082,6,Lungs are otherwise fully expanded and clear.,uncertain
+6943,0,No definite acute cardiopulmonary process.,uncertain
+5645,0,No acute cardiopulmonary process.,normal
+16567,3,Moderate bibasilar atelectasis is noted.,abnormal
+3375,2,There is no pleural effusion or pneumothorax.,abnormal
+3742,0,Mild improvement of large right pleural effusion.,abnormal
+4068,3,"The heart size is moderately enlarged, similar to prior.",abnormal
+17618,2,Mild pulmonary vascular congestion is not associated with pulmonary interstitial edema.,abnormal
+12128,6,No pleural effusion seen.,abnormal
+17283,3,There is no pleural effusion or pneumothorax.,abnormal
+19968,2,"No overt traumatic findings; if there is focality on exam, rib series may be helpful.",uncertain
+18743,7,There is mild levoscoliosis of the thoracic spine.,uncertain
+28038,10,The visualized osseous structures are unremarkable.,uncertain
+14680,1,Interval removal of the right internal jugular central venous catheter.,uncertain
+20797,1,No pneumothorax.,abnormal
+19194,2,Single AP upright portable view of the chest was obtained.,uncertain
+2607,0,Mild bibasilar atelectasis and mild pulmonary vascular engorgement are present.,abnormal
+1931,2,"No infiltrate, effusion, or pneumothorax is identified.",abnormal
+25605,0,"Interval placement of a nasogastric tube, the tip of which extends into the small bowel.",uncertain
+758,14,"A left-sided PICC terminates high in position, in the region of the left subclavian vein.",uncertain
+25325,2,AP view of the chest.,uncertain
+22421,3,Probable CHF and left base atelectasis.,abnormal
+13543,0,There may be small pleural effusions.,abnormal
+20864,2,Patchy opacity at the left base is also again noted.,abnormal
+4571,1,Extensive hilar and mediastinal lymphadenopathy is noted and may be reactive disease overlying known Sarcoidosis.,uncertain
+26586,0,Findings suggesting pneumonia.,abnormal
+25776,4,Bilateral pigtail catheters are unchanged in position.,uncertain
+3710,2,There is mild pulmonary congestion.,uncertain
+24427,6,There is a small pleural effusion on the right; there is no definite persistent pleural effusion on the left.,abnormal
+15437,8,Multiple left-sided rib fractures are re- demonstrated.,uncertain
+19859,5,Pulmonary vasculature is not engorged.,uncertain
+27219,0,No acute cardiopulmonary abnormality.,uncertain
+4240,0,"No significant change in left basal consolidation, representing a combination of small to moderate pleural effusion and atelectasis.",abnormal
+18552,2,Lower lung volumes account for the apparent increase in opacity of the right hemithorax and vascular congestion.,abnormal
+27167,1,A tracheostomy tube tip remains in the mid airway.,uncertain
+24394,4,There is no pneumothorax.,abnormal
+6427,12,Degenerative changes are again seen at the left glenohumeral joint.,uncertain
+10888,4,"The left hemidiaphragm and left heart border are obscured, likely secondary to pleural effusion and adjacent atelectasis, although underlying consolidation cannot be excluded.",abnormal
+26050,1,When compared to recent chest x-ray there has been no significant interval change.,uncertain
+27902,2,Overinflation of the ET tube cuff.,uncertain
+3282,5,"The heart is not grossly enlarged, but appear slightly increased from prior.",abnormal
+17585,3,A surgical resection chain is seen along the left mid lung zones.,uncertain
+30564,6,"Normal heart size, pulmonary vascularity.",uncertain
+28423,3,There are surgical clips in the right axilla.,uncertain
+7338,4,There are worsening bilateral interstitial opacities which are predominantly perihilar and basilar.,abnormal
+27802,4,Mild cardiomegaly.,abnormal
+4799,5,A mass in the right major fissure is similar.,abnormal
+16643,1,New layering small left pleural effusion.,abnormal
+2075,6,No pneumothorax seen.,abnormal
+19506,2,The lungs appear clear.,uncertain
+25406,2,Two frontal images of the chest demonstrate well-expanded lungs with no evidence of pneumothorax or pleural effusion.,abnormal
+30540,10,There are multiple old bilateral rib fractures.,uncertain
+19518,1,Correlate clinically and consider repeat after diuresis.,uncertain
+25153,13,An endogastric tube courses inferiorly towards the stomach.,uncertain
+28666,7,Heart and mediastinal contours are stable with mild cardiomegaly redemonstrated.,abnormal
+15600,2,There has been mild improvement in the right basilar opacity with continued loculated right pleural effusion with associated atelectasis.,abnormal
+6427,4,AP portable upright chest radiograph was provided.,uncertain
+14759,4,The aorta is tortuous.,uncertain
+26997,2,Cardiomediastinal silhouette now midline.,uncertain
+10450,14,No pneumothorax detected.,abnormal
+7066,2,The heart is upper limits normal in size but there is pulmonary vascular redistribution.,uncertain
+13820,2,"Enteric tube courses below the level of the diaphragm, terminating in the left abdomen, in the expected location of the stomach.",uncertain
+21017,14,No CHF.,uncertain
+14691,7,An enteric tube passes below the diaphragm and outside the field of view.,uncertain
+4777,0,No acute cardiopulmonary process.,normal
+14327,2,Small bilateral pleural effusions are suspected with overlying atelectasis.,abnormal
+9426,6,No significant pleural effusion or pneumothorax is detected.,abnormal
+23017,3,There is no definite pleural effusion.,abnormal
+11541,2,Again noted is bibasilar atelectasis /scarring.,abnormal
+20493,7,The cardiac silhouette is top normal.,uncertain
+29468,2,Comparison is made with the next preceding similar study of .,uncertain
+7744,8,There is no pneumothorax.,abnormal
+25014,1,"Marked cardiomegaly, unchanged.",abnormal
+17242,0,No pneumothorax after chest tube removal.,abnormal
+18267,1,Findings concerning for pneumoperitoneum.,uncertain
+14433,6,No convincing evidence for pneumonia or CHF.,abnormal
+22474,2,There is no pleural effusion or pneumothorax.,abnormal
+23817,0,"Interval increase in the patient's bilateral airspace opacifications, concerning for worsening pneumonia versus aspiration.",abnormal
+1897,8,The hila continue to appear congested.,uncertain
+12309,4,Vascular branching pattern on the left suggests emphysema.,abnormal
+2258,5,No pneumothorax is identified.,abnormal
+19840,0,"Cardiomegaly, otherwise unremarkable.",abnormal
+1322,4,No focal consolidation seen.,abnormal
+9408,2,Grossly no pneumothorax.,abnormal
+10597,0,"Mild pulmonary edema, marked cardiomegaly.",abnormal
+2499,6,Cardiomediastinal silhouette is within normal size.,uncertain
+23873,0,No acute cardiopulmonary process.,normal
+16481,5,by Dr.,uncertain
+11881,0,No acute cardiopulmonary process.,normal
+10416,3,The cardiac silhouette is top-normal.,uncertain
+7891,3,No pleural effusions or pneumothorax.,abnormal
+6075,5,No pleural effusion or pneumothorax is seen.,abnormal
+7660,0,Placement of a right upper extremity PICC line in appropriate position.,uncertain
+27748,6,Focal opacity within the left lower lobe is compatible with infarction.,abnormal
+22162,5,"Minimal atelectasis is present at the lung bases, left greater than right, and there are also apparent small pleural effusions.",abnormal
+18623,1,Stable elevation of the left hemidiaphragm and blunting of the left costophrenic angle with overlying atelectasis/scarring.,abnormal
+17870,7,There are no pleural effusions.,abnormal
+14762,2,Lung volumes are low.,uncertain
+22554,0,Clear lungs without evidence of pulmonary edema.,abnormal
+1640,3,A nasogastric tube courses below the diaphragm with the tip out of the field of view.,uncertain
+17831,0,Mild pulmonary vascular congestion.,uncertain
+18894,3,There has been interval increase in opacification of the left lung.,uncertain
+19761,10,Focal opacity seen about the right upper lobe on the chest CT is not well demonstrated on the current radiograph.,abnormal
+887,3,No large pleural effusion is seen although trace pleural effusion to be difficult to exclude.,abnormal
+25999,10,A small right pleural effusion is unchanged.,abnormal
+9815,4,"If there is a concern for focal consolidation at the lung bases, then PA and additional lateral view may help for further evaluation of the lung bases.",abnormal
+15676,4,"Multiple surgical clips project over the right lower lung, potentially within overlying soft tissues.",uncertain
+28145,0,"Moderate cardiomegaly with perihilar vascular congestion, appears progressed from exam.",abnormal
+25153,20,Mild pulmonary vascular congestion is present.,uncertain
+28361,1,TECHNIQUE: Frontal chest radiograph was obtained with the patient in the upright position.,uncertain
+3918,0,Chronic interstitial lung disease with stable small right pleural effusion.,abnormal
+17289,4,"However, more confluent opacity in the left lung base is seen, which could suggest atelectasis versus developing pneumonia.",abnormal
+19638,7,The lungs remain hyperinflated.,uncertain
+18716,2,A left subclavian access Port-A-Cath is seen with its tip in the region of the low SVC.,uncertain
+4395,5,Borderline cardiomegaly unchanged.,abnormal
+5490,4,The cardiomediastinal silhouette is normal.,uncertain
+1240,0,"Bibasilar opacities may reflect atelectasis, and/or consolidation in the proper clinical context.",abnormal
+15471,4,A coronary stent is also noted projecting over the left heart border.,uncertain
+20693,4,"There is no focal consolidation, effusion, or pneumothorax.",abnormal
+22682,5,No focal consolidation or pneumothorax is present.,abnormal
+17669,0,Left basal pneumonia.,abnormal
+19460,8,Visualized osseous structures are unremarkable.,uncertain
+4107,8,The left lung is clear.,uncertain
+7537,9,The mediastinal and hilar contours are stable.,uncertain
+20105,3,Lungs are hyperinflated without focal consolidation.,abnormal
+23553,4,There is a new right IJ central venous catheter with tip likely in the upper right atrium.,uncertain
+12061,4,"A right-sided internal jugular catheter is in-situ, the tip terminates in the distal SVC.",uncertain
+25955,4,"The left lower hemithorax is completely opacified, likely a combination of atelectasis and effusion.",abnormal
+6418,1,"There is no consolidation, pleural effusion, or pneumothorax.",abnormal
+25542,4,Marked cardiomegaly is unchanged.,abnormal
+3562,2,Minimal atelectasis is present at the left base.,abnormal
+22463,14,Limited assessment of upper abdomen is within normal limits.,uncertain
+6506,4,"Blunting of the right costophrenic angle with adjacent atelectasis is compatible with a small right pleural effusion, which appears slightly increased since .",abnormal
+11959,2,The patient is status post sternotomy and probably coronary artery bypass graft surgery.,uncertain
+9441,0,Dobbhoff tube projecting over the left upper quadrant is likely in the stomach.,uncertain
+4150,4,The lungs are clear of focal consolidation or large effusion.,abnormal
+23988,0,Endotracheal tube in appropriate position.,uncertain
+16134,6,"The cardiomediastinal silhouette is enlarged, which may be projectional.",abnormal
+29336,0,"Mild pulmonary edema, mild cardiomegaly.",abnormal
+10820,4,"The cardiac, mediastinal and hilar contours appear normal.",uncertain
+4785,7,Small right pleural effusion is new.,abnormal
+9765,7,Cardiomediastinal and hilar contours are unremarkable.,uncertain
+22029,3,The heart size is normal.,normal
+16041,7,There is mild pulmonary vascular congestion.,uncertain
+14680,2,The tip of the right central venous catheter projects over the distal SVC.,uncertain
+27253,5,"Since the prior exam, the endotracheal tube and nasogastric tube have been removed.",uncertain
+15620,4,Atherosclerotic calcifications are noted at the aortic arch.,uncertain
+14762,4,Mediastinal and hilar contours are unremarkable.,uncertain
+30264,3,The trachea is poorly delineated.,uncertain
+8952,1,Rest as above.,uncertain
+12726,6,"The heart is mildly enlarged, and also unchanged.",abnormal
+10262,6,"Apparent interval increase in size of bilateral, large pleural effusions is likely secondary to semi-erect positioning.",abnormal
+25297,8,No gross effusion.,abnormal
+12608,6,A left-sided intracardiac device is unchanged in position.,uncertain
+20720,2,The ET tube is in standard position.,uncertain
+1182,4,There is no pneumothorax.,abnormal
+10738,0,Low lung volumes with retrocardiac opacity.,abnormal
+8310,0,No focal consolidation concerning for pneumonia.,abnormal
+21889,0,"Right pneumothorax is moderate size, and left pneumothorax is small.",abnormal
+29828,2,Other support lines and devices are stable in position.,uncertain
+4235,3,Pulmonary vasculature is normal.,uncertain
+19350,0,"Moderate pulmonary edema, right greater left, but cannot exclude underlying infectious process.",abnormal
+7786,0,No significant change in partly loculated left pleural effusion with associated atelectasis.,abnormal
+21079,0,Small layering effusions persist.,uncertain
+11101,0,Malpositioned right internal jugular catheter.,uncertain
+11598,3,The left lung is clear.,uncertain
+16608,8,There is no pneumothorax.,abnormal
+14164,2,Lungs: Well inflated and clear.,uncertain
+4053,5,"The heart is mildly enlarged, which may be technical.",abnormal
+10704,3,There small bilateral effusions,uncertain
+2769,1,No pleural effusion.,abnormal
+15509,11,Stable cardiomediastinal contours.,uncertain
+2440,5,Left pleural effusion and atelectasis is stable.,abnormal
+19597,5,Imaged osseous structures are intact.,uncertain
+18836,3,Interval increase in the left apical pneumothorax that is moderate.,abnormal
+19761,8,There is a small residual right pneumothorax.,abnormal
+10980,6,Pneumonia is difficult to exclude given low lung volumes.,abnormal
+16313,2,Consider PA and lateral to further characterize.,uncertain
+18874,0,No acute cardiopulmonary process.,normal
+28060,7,Cardiomediastinal and hilar contours are unchanged in appearance.,uncertain
+14014,1,Right PICC line ends close to the superior cavoatrial junction.,uncertain
+29031,2,"Otherwise, no interval change.",uncertain
+7005,5,The mediastinal and hilar contours appear within normal limits.,uncertain
+14359,3,"Lung volumes are mildly decreased, but there appears to be subtle increased perihilar vascular congestion; however, no large effusion is noted.",abnormal
+22133,5,"In the absence of more remote radiographs for comparison, it is uncertain whether the left-sided volume loss is longstanding (for example related to previous surgery or chronic scarring), or a more acute process.",uncertain
+28751,9,There is no pulmonary edema or definite pleural effusion.,abnormal
+6495,3,Right-sided Port-A-Cath tip terminates in the proximal right atrium.,uncertain
+13867,1,No pneumothorax.,abnormal
+21797,2,Severe cardiomegaly is unchanged.,abnormal
+22038,7,The pleural surfaces are unremarkable.,abnormal
+9573,6,The lungs appear clear.,uncertain
+1344,3,A post-pyloric feeding tube is in stable position.,uncertain
+24878,0,Mostly unremarkable chest findings on single view examination.,uncertain
+19016,4,Limited assessment of the osseous structures are unremarkable and upper abdomen is within normal limits.,uncertain
+21565,6,The cardiomediastinal silhouette is enlarged but stable.,abnormal
+29281,6,Stable left basilar atelectasis.,abnormal
+152,1,Continued CHF with interstitial edema.,abnormal
+14173,6,"Low lung volumes with bibasilar opacities, likely reflecting atelectasis.",abnormal
+21475,2,Platelike atelectasis is noted bilaterally.,abnormal
+13587,0,No evidence of acute disease.,uncertain
+26186,1,Numerous right-sided rib fractures also better seen on prior CT.,uncertain
+9173,6,There is mild pulmonary edema.,abnormal
+10293,1,Portable semi-upright view of the chest demonstrates low lung volumes.,uncertain
+3351,3,Presumable enteric tube tip projects over the thoracic inlet.,uncertain
+30315,4,The heart size is top-normal.,uncertain
+20537,3,"Pacemaker leads in the right atrium, right ventricle and coronary sinus are unchanged.",uncertain
+2009,2,"The lung volumes are slightly decreased compared with prior, accentuating the pulmonary vasculature.",uncertain
+6384,3,"Streaky, bibasilar airspace opacities are noted, which likely represent atelectasis.",abnormal
+22081,2,"However, a supervening pneumonia cannot be excluded.",abnormal
+5952,0,No significant interval change.,uncertain
+11061,8,There is increased interstitial opacities and fullness of the pulmonary vasculature.,abnormal
+11852,0,No acute cardiopulmonary process.,normal
+6243,2,"New, small left pleural effusion.",abnormal
+24539,1,The heart size is top-normal.,uncertain
+16404,0,Mild pulmonary edema with small bilateral effusions.,abnormal
+2119,3,"Heart size is mild to moderately enlarged, unchanged.",abnormal
+24669,7,Enlargement of the hila bilaterally could suggest underlying lymphadenopathy.,uncertain
+10916,0,No acute intrathoracic abnormality.,uncertain
+7906,4,No pneumothorax.,abnormal
+10808,8,No free air below the right hemidiaphragm.,uncertain
+18748,0,The ET tube has been removed.,uncertain
+13158,3,The heart size is within the range of normal.,uncertain
+29575,5,No pneumothorax is seen.,abnormal
+15620,0,Moderate bilateral pleural effusions with adjacent atelectasis.,abnormal
+15580,4,Multiple support devices are in unchanged position from the prior exam including a Swan-Ganz catheter with the tip in the distal main pulmonary artery.,uncertain
+22302,2,There is no pleural effusion or pneumothorax.,abnormal
+7917,1,Moderate cardiomegaly is unchanged.,abnormal
+4071,1,Low lung volumes.,uncertain
+14639,3,There is stable elevation of the right hemidiaphragm.,uncertain
+410,1,Improved cardiopulmonary findings.,uncertain
+26821,7,Cardiomediastinal silhouette is unchanged.,uncertain
+24939,8,Mild pulmonary edema is unchanged in the remainder of the lungs.,abnormal
+14275,4,Pulmonary vascularity is normal.,uncertain
+19859,1,Small bilateral pleural effusions with patchy opacities in the lung bases reflecting a combination of atelectasis as well as aspiration pneumonia in the left lung base.,abnormal
+14173,9,The pulmonary vasculature is normal.,uncertain
+23337,2,Again seen is layering moderate left pleural effusion.,abnormal
+18013,4,Mild increased prominence of interstitial markings likely exagerated by low lung volumes.,abnormal
+28143,3,"The heart size is enlarged, similar to prior studies.",abnormal
+22840,8,Suggest oblique views of the ribs initially to better localize.,uncertain
+8024,3,A tracheostomy is again demonstrated.,uncertain
+15707,2,"When compared to prior, there has been no significant interval change.",uncertain
+15554,1,There is linear atelectasis at the lung bases.,abnormal
+8599,6,No focal consolidation or pneumothorax.,abnormal
+4401,3,There is no pleural effusion or pneumothorax.,abnormal
+14153,1,Unchanged lingular nodule.,uncertain
+27570,3,There is central pulmonary vascular engorgement but without evidence of frank pulmonary edema.,abnormal
+18549,5,Left basilar opacity likely reflects a combination of pleural effusion and consolidation.,abnormal
+5725,1,Tracheostomy tube in place.,uncertain
+21689,6,The cardiomediastinal silhouette has not definitely changed but is obscured at its left margin due to the left basilar opacity.,abnormal
+25096,6,There is also right hilar convex bulge.,uncertain
+29310,7,Several sclerotic left rib lesions are noted and may be related to metastatic prostate cancer as reported on recent CT torso.,uncertain
+29011,2,Possible trace right pleural effusion.,abnormal
+707,7,Right PICC also appears similarly positioned with tip projecting at the level of the cavoatrial junction.,uncertain
+3844,8,Lung volumes are low.,uncertain
+27445,2,"Right IJ central line remains present, tip near SVC/RA junction.",uncertain
+15064,5,There is no pneumothorax or pleural effusion.,abnormal
+19049,5,No pneumothorax or pleural effusion,abnormal
+3969,5,"This appears more pronounced than on the prior study, but is likely accentuated by technical factors.",uncertain
+11750,4,"There is an increase in right basilar opacity, likely reflecting atelectasis or aspiration.",abnormal
+3662,7,Atherosclerotic calcifications are noted in the aortic arch.,uncertain
+675,5,Cardiac and mediastinal silhouettes appears stable.,uncertain
+14492,7,Surgical clips in the right upper quadrant suggest prior cholecystectomy.,uncertain
+10217,0,Dobbhoff tube tip is at the gastroesophageal junction.,uncertain
+14691,2,"New right middle and lower lobe collapse, notably where the enteric tube was mistakenly initially placed in the prior radiographs, before appropriate advancement into the stomach.",abnormal
+6427,8,"There is increased reticular opacity in the lower lungs bilaterally which may in part represent atelectasis, though the possibility of fibrotic changes not excluded.",abnormal
+6564,13,Left IJ central line tip in the upper SVC.,uncertain
+27394,6,Clips in the left upper quadrant noted.,uncertain
+1848,5,Aortic knob is diffusely calcified.,uncertain
+3603,5,"However, there may also be focal opacification of the right upper lobe, which is concerning for superimposed aspiration/pneumonia.",abnormal
+9765,4,"Although no acute fracture or other chest wall lesion is seen, conventional chest radiographs are not sufficient for detection or characterization of most such abnormalities.",abnormal
+9170,7,There is no pleural effusion.,abnormal
+30365,4,Repeat with PA and lateral suggested show further characterize if patient is amenable.,uncertain
+11061,4,with Dr.,uncertain
+23281,7,There is no pneumothorax.,abnormal
+27822,5,No pneumothorax seen.,abnormal
+25582,0,No acute intrathoracic abnormalities identified.,uncertain
+6190,6,The left hemidiaphragm is asymmetrically elevated.,uncertain
+1182,6,The splayed hilum is likely due to an enlarged left atrium.,abnormal
+26777,2,A moderate right pleural effusion has substantially decreased in size status post thoracentesis.,abnormal
+15959,10,Previously described retrocardiac opacity is no longer present on the current exam.,abnormal
+15756,9,There is no pneumothorax.,abnormal
+29374,0,Left internal jugular venous catheter terminates at the mid SVC.,uncertain
+13993,4,No pleural effusion.,abnormal
+13827,4,Heart size is normal.,normal
+300,3,Postoperative changes are noted in the right upper lobe.,uncertain
+17831,1,Lung volumes are decreased compared to the prior study.,uncertain
+19431,3,"There are linear opacities surrounding the mediastinum, consistent with chronic radiation changes.",uncertain
+17864,2,"Despite low lung volumes, the lungs are grossly clear.",uncertain
+12858,5,Probable small bilateral effusions are noted.,uncertain
+29633,6,There is no pneumothorax.,abnormal
+27182,6,Consolidation of left lung is increased compared to the radiograph prior to the chest tube placement.,abnormal
+24901,1,Surgical materiel in-situ in the left upper quadrant in keeping with gastric surgery.,uncertain
+2141,4,The multifocality of the process is re- demonstrated.,uncertain
+7827,7,Linear atelectasis in the left lingula unchanged.,abnormal
+19348,0,Interval removal of multiple support lines and devices.,uncertain
+3142,0,Interval placement of a right IJ central venous catheter likely extending into the SVC though the tip cannot be clearly assessed due to overlap with the AICD wires.,uncertain
+6800,8,Multiple similar-appearing densities throughout lungs are unchanged.,uncertain
+29952,5,"Again seen are bilateral diffuse hazy opacities with haziness at the bases, which could represent pleural effusion.",abnormal
+30564,4,"Postoperative changes in the upper abdomen with drains, , IVC filter in place.",uncertain
+7849,1,Suggest PA and lateral radiographs for better evaluation.,uncertain
+10247,3,Heart size is top-normal.,uncertain
+10247,6,Patient is status post medial sternotomy.,uncertain
+3549,5,No pleural effusion or pneumothorax is seen.,abnormal
+4799,2,A single portable frontal chest radiograph was obtained.,uncertain
+19018,5,Imaged osseous structures are intact.,uncertain
+10293,8,Partially imaged abdomen is unremarkable.,uncertain
+29171,2,"Concurrent infectious process cannot be excluded in the appropriate clinical situation, particularly in right lower lobe.",uncertain
+20296,5,There is no pneumothorax or consolidation concerning for pneumonia.,abnormal
+10634,5,"Bibasilar opacities are noted, most consistent with atelectasis.",abnormal
+27879,0,Unchanged loculated right pleural effusion and small left pleural effusion.,abnormal
+8125,3,There is an unchanged moderate pleural effusion on the right with associated right basilar atelectasis.,abnormal
+28185,6,Severe cardiomegaly is chronic.,abnormal
+3566,6,There are left greater than right bibasilar opacities which may represent atelectasis.,abnormal
+18796,3,New small left pleural effusion.,abnormal
+14239,0,Intra-aortic balloon pump terminates at the level of the upper aortic arch.,uncertain
+12608,0,A Swan-Ganz catheter again terminates deep within a right pulmonary artery.,uncertain
+26518,7,The cardiomediastinal silhouette is stable.,uncertain
+24641,2,This most likely represents artifact of long adjacent to bone.,uncertain
+17242,5,Cardiac and mediastinal silhouettes and hilar contours are stable.,uncertain
+25008,0,No acute cardiopulmonary process.,normal
+12614,7,No pneumothorax.,abnormal
+1631,1,There is mild pulmonary vascular redistribution.,uncertain
+25018,6,The cardiomediastinal and hilar contours are unremarkable.,uncertain
+26026,5,There is mild right infrahilar opacity.,abnormal
+14475,4,The heart and mediastinal contours are normal.,uncertain
+9170,0,No acute cardiac or pulmonary process.,uncertain
+6135,7,There is opacification of the right upper lobe with superior deviation of the minor but without rightward mediastinal shift.,uncertain
+16419,4,There small bilateral pleural effusions.,abnormal
+13140,0,No significant interval change when compared the prior study.,uncertain
+12341,5,"Patchy bibasilar opacities likely reflect atelectasis, without focal consolidation.",abnormal
+14958,5,Mild right basilar atelectasis.,abnormal
+29870,1,"Dobbhoff tube is present and mild minimally coiled within the stomach, terminating in the gastric fundus.",uncertain
+24108,0,"Small bilateral pleural effusions, right greater than left.",abnormal
+14979,2,A single portable AP upright view of the chest was obtained.,uncertain
+25040,4,There has been interval removal of the temperature probe.,uncertain
+25153,17,The right mediastinal contours are exaggerated by patient's rotation to the right.,uncertain
+19082,3,"Improved mild pulmonary edema, right basilar subsegmental atelectasis, and a left basilar airspace opacity which may be due to atelectasis or aspiration.",abnormal
+9137,0,Status post interval placement of left subclavian central venous catheter with tip terminating in the superior vena cava.,uncertain
+5279,12,There is no pleural effusion or pneumothorax.,abnormal
+26112,8,The heart size is top normal and unchanged.,uncertain
+17407,6,No acute osseous abnormalities are seen.,uncertain
+2779,0,Low lung volumes with patchy bibasilar airspace opacities potentially reflecting atelectasis.,abnormal
+10311,2,Recommend repeat after treatment to document resolution.,uncertain
+13121,5,There is no evidence of pneumothorax.,abnormal
+16645,7,There are severe degenerative changes at the glenohumeral joints bilaterally.,uncertain
+14934,1,The lungs are well expanded.,uncertain
+3662,2,"As compared to the prior radiograph performed yesterday morning, there is interval enlargement of an area of opacification in the right perihilar region, which most likely represents worsening pulmonary edema.",abnormal
+1595,4,No acute osseous abnormalities.,uncertain
+12940,2,New left-sided PICC with the tip at the cavoatrial junction.,uncertain
+227,2,The right internal jugular central venous catheter still ends in mid SVC.,uncertain
+29406,0,New small pneumopericardium.,uncertain
+22443,5,Mediastinal contour is normal.,uncertain
+22591,2,Pacemaker wires are unchanged in position.,uncertain
+18216,1,Possible small pleural effusions.,abnormal
+3477,6,Possible trace subsegmental atelectasis the left base.,abnormal
+18216,7,No acute osseous abnormalities.,uncertain
+15457,10,The hila and pulmonary vasculatures are normal.,uncertain
+11229,9,There is a possible right lateral pneumothorax.,abnormal
+14060,1,The lungs are clear without focal consolidation.,abnormal
+19367,6,No pneumothorax.,abnormal
+2810,7,Marked scoliosis and degenerative changes of the spine are again seen.,uncertain
+28001,1,Nasogastric tube courses below the diaphragm into the stomach.,uncertain
+3285,0,Ill-defined opacity in the right lower lobe can reflect atelectasis or pneumonia in the appropriate clinical setting.,abnormal
+22973,4,Cardiomediastinal silhouette appears normal.,uncertain
+4729,3,"Compared to prior study, the degree of pulmonary edema is unchanged.",abnormal
+8352,1,"Frontal portable supine radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours.",uncertain
+333,5,Lung volumes are slightly lower than on the prior study.,uncertain
+10762,0,An OG tube passes into the stomach outside of the view inferiorly.,uncertain
+22864,1,"There is residual pneumothorax in continued opacification of the left lower lung, consistent with persistent left-sided effusion.",abnormal
+21079,5,Small bilateral effusions layering effusions persist.,uncertain
+18421,5,The cardiac and mediastinal silhouettes are stable.,uncertain
+4924,2,Heart size is still top normal with prominent hila.,uncertain
+19838,3,There is no pleural effusion or pneumothorax.,abnormal
+8050,8,No acute osseous abnormalities are present.,uncertain
+6306,1,"There is no focal consolidation, effusion, or pneumothorax.",abnormal
+19889,1,"The lungs are clear, the cardiomediastinal silhouette and hila are normal.",normal
+9180,7,There is no pleural effusion or pneumothorax.,abnormal
+10055,7,Mild pulmonary vascular congestion is improved compared to the previous study.,uncertain
+8651,11,No pneumothorax.,abnormal
+13682,9,Increased retrocardiac airspace opacification is most likely due to atelectasis.,abnormal
+10030,11,Mediastinal and hilar contours are normal.,uncertain
+9131,4,"Moderate pulmonary edema and bilateral pleural effusions are unchanged, moderate on the left and small on the right.",abnormal
+26117,8,A small right pleural effusion is stable.,abnormal
+12726,1,No evidence of pneumonia.,abnormal
+9348,7,There is no evidence of pneumothorax.,abnormal
+21255,4,Single portale view of the chest.,uncertain
+16200,2,Bilateral moderate size pleural effusions are increased with increased interstitial markings and vascular congestion compatible with moderate to severe pulmonary edema.,abnormal
+27979,4,A tracheostomy is in unchanged position.,uncertain
+26060,7,The overall heart size is difficult to assess.,uncertain
+19638,6,There appears to be bilateral unchanged diffuse reticulonodular interstitial process with a more focal airspace confluent opacity at the right apex.,abnormal
+7917,2,Bibasilar opacities likely represent predominantly volume loss.,uncertain
+1669,2,"The cardiac silhouette is difficult to evaluate secondary to opacity in the bilateral lung bases, but appears increased in size.",abnormal
+19886,3,A moderate hiatal hernia is still present.,uncertain
+23608,3,There is a consolidation at the right base with blunting of the right costophrenic angle.,abnormal
+17507,8,Median sternotomy wires are noted.,uncertain
+15889,5,There is a small left pleural effusion and possibly tiny right pleural effusion.,abnormal
+28859,2,"Lungs are clear bilaterally with no focal consolidation, effusion or pneumothorax.",abnormal
+25153,3,An endogastric tube courses inferiorly towards the stomach.,uncertain
+3642,1,Stable moderate cardiomegaly.,abnormal
+23142,4,The left IJ central venous catheter terminates in the mid SVC.,uncertain
+28174,1,The lung volumes are normal.,uncertain
+16643,10,New retrocardiac opacification at the left lung base is may be due to atelectasis or aspiration.,abnormal
+26911,1,Lung volumes are somewhat low.,uncertain
+801,6,Calcifications noted at the aortic arch.,uncertain
+8695,2,Retrocardiac opacity may reflect atelectasis but infection or aspiration cannot be excluded.,abnormal
+24444,9,There is no evidence of pneumothorax.,abnormal
+14014,5,No pulmonary edema.,abnormal
+18071,0,"Stable left basilar consolidation, likely atelectasis, pleural effusion.",abnormal
+646,1,Small left pleural effusion is likely present.,abnormal
+15689,6,There is no pneumothorax.,abnormal
+27875,2,"New patchy opacities at the left lung base and a vague opacity in the left upper lung are non-specific, especially in the setting of suspected underlying mass, and may reflect pneumonia or aspiration with supporting clinical evidence.",abnormal
+23284,5,"A large right pleural effusion appears slightly increased from prior exam, now large, with associated consolidation which could represent compressive atelectasis or possibly pneumonia.",abnormal
+14120,3,Right lower lobe opacity and right pleural effusion are increased.,abnormal
+18700,4,See below,uncertain
+8258,1,Single portable view of the chest compared to previous exam from and CT abdomen from .,uncertain
+4051,3,"Two right chest tubes end in the apical region, and one other right chest tube curls towards the base of the lung.",uncertain
+16103,0,Endotracheal tube with tip in origin of right main stem bronchus.,uncertain
+13237,2,"A left retrocardiac opacity is presumably atelectasis, however, pneumonia could be considered in the appropriate clinical setting.",abnormal
+5898,7,"Right upper lobe opacity with central cavitation, left lung opacity, and left pleural effusion ARE unchanged.",abnormal
+23873,1,AP chest radiograph.,uncertain
+4395,3,Lateral aspect of the left lower hemi thorax is excluded from the examination but the other pleural surfaces are normal.,abnormal
+7719,2,Upright AP radiographs of the chest demonstrate minimal bibasilar atelectasis but otherwise clear lungs.,abnormal
+21466,2,Left basilar atelectasis.,abnormal
+11481,8,There is no pleural effusion.,abnormal
+27072,3,Lung volumes are low with worsening left greater than right bibasilar atelectasis with mild pulmonary interstitial edema.,abnormal
+10993,11,Thoracolumbar curve.,uncertain
+10744,1,No pleural effusion.,abnormal
+24970,4,Small right and moderate left bilateral pleural effusions persist.,abnormal
+2568,4,Cardiomediastinal silhouette is within normal limits.,uncertain
+12426,3,The mediastinal contours are normal.,uncertain
+5601,8,Posterior fusion hardware is again noted within the upper thoracic spine.,uncertain
+4874,0,"Swan-Ganz catheter terminating within a right pulmonary artery, slighty retracted since the examination.",uncertain
+3807,10,A left upper extremity PICC terminates in the cavoatrial junction.,uncertain
+4185,2,There is a right PICC with the tip in the mid SVC.,uncertain
+327,10,Consolidation within the left upper lobe is chronic.,abnormal
+8686,4,"There is mild to moderate pulmonary edema, increased since prior study.",abnormal
+23740,9,Again seen is patchy retrocardiac opacity.,abnormal
+25126,3,Retrocardiac airspace opacification is most likely due to stable atelectasis.,abnormal
+11378,13,Lung volumes are low.,uncertain
+7270,1,"There are linear bibasilar opacities, which likely reflect atelectasis.",abnormal
+9913,3,The patient is status post prior median sternotomy and CABG.,uncertain
+5933,4,No acute osseous abnormalities identified.,uncertain
+11570,2,NG tube with side port below the gastroesophageal junction enters into proximal stomach and is out of view.,uncertain
+6996,3,"A right IJ central venous line courses inferiorly, with distal tip projecting over the mid SVC.",uncertain
+17694,9,No acute osseous abnormalities seen.,uncertain
+28152,0,No opacity convincing for pneumonia.,abnormal
+16830,1,Lordotic positioning.,uncertain
+20065,1,Cardiac silhouette size is borderline enlarged.,abnormal
+4155,0,Subtle increase in opacification in the right infrahilar region may be secondary to atelectasis.,abnormal
+16303,12,"In addition, there is more pronounced hazy opacity at the right lung base, also with obscuration of the right hemidiaphragm.",abnormal
+4089,6,Bony thorax: Unremarkable.,uncertain
+21049,2,Biapical pleural based calcifications are unchanged.,abnormal
+2494,0,"Overall stable small right apical and minimal, if any left basilar pneumothoraces compared to the prior exam.",uncertain
+9408,4,No pleural effusions.,abnormal
+24259,0,"As compared to the previous radiograph, the feeding tube remains in similar position with the tip in the distal stomach.",uncertain
+10841,1,AP portable upright view of the chest.,uncertain
+14239,2,The tip of the intra-aortic balloon pump terminates at the upper aortic arch.,uncertain
+24166,4,The hilar mediastinal contours are unchanged.,uncertain
+24478,4,Very shallow inspiration.,uncertain
+17846,2,Heart size remains moderately enlarged but unchanged.,abnormal
+8651,6,"by , M.",uncertain
+11620,5,There is no evidence of pulmonary vascular congestion.,uncertain
+16533,2,Findings were discussed by Dr.,uncertain
+16984,0,No enteric tube is visualized on current study.,uncertain
+6096,8,Mild improvement in right lower lobe atelectasis.,abnormal
+22808,2,No appreciable pneumothorax.,abnormal
+11620,6,There is no pneumothorax or pleural effusion.,abnormal
+25604,7,There is no pneumothorax or pulmonary edema.,abnormal
+13108,0,Right mainstem bronchus intubation.,uncertain
+18339,2,The patient is status post CABG and the mediastinum continues to demonstrate the expected postoperative appearance.,uncertain
+27582,3,"The sideport is not well delineated, but appears to lie immediately beyond the GE junction.",uncertain
+10597,7,Mediastinal contour is unchanged.,uncertain
+16730,9,No pleural effusion or pneumothorax.,abnormal
+22524,2,Low lung volumes cause bronchovascular crowding and left basilar atelectasis.,abnormal
+28474,6,The heart is top-normal in size.,uncertain
+27659,6,The visualized upper abdomen is unremarkable.,uncertain
+14017,0,Inspiratory volumes are lower.,uncertain
+279,0,Left Port-A-Cath terminates at the level of lower SVC.,uncertain
+16744,4,Compared to the prior study fluid status is worse.,uncertain
+11829,10,No effusion visualized.,abnormal
+3514,0,No acute cardiopulmonary process.,normal
+22302,0,No acute cardiopulmonary process.,normal
+8002,9,There is no pneumothorax.,abnormal
+28738,7,More dense retrocardiac opacity seen.,abnormal
+26121,6,The heart is moderately enlarged.,abnormal
+749,4,Retrocardiac dense consolidation has slightly worsened.,abnormal
+13305,4,Prior healed rib fractures are noted on the left.,uncertain
+30179,2,Diffuse bilateral parenchymal opacities have somewhat progressed more confluent at the lung bases.,uncertain
+6126,8,"Crowding of the bronchovascular structures is present, with possible mild pulmonary vascular congestion.",uncertain
+27934,1,Portable semi-upright radiograph of the chest demonstrates low lung volumes results in bronchovascular crowding.,uncertain
+7687,2,Lungs appear clear.,uncertain
+19719,6,Mediastinal and hilar configuration normal.,uncertain
+24047,3,Slightly worsened mild bibasilar atelectasis.,abnormal
+14037,6,The heart size is mildly enlarged.,abnormal
+13127,1,Results were discussed over the telephone with Dr.,uncertain
+28650,2,Lucency underlying the left hemidiaphragm may represent pneumoperitoneum or the stomach bubble.,uncertain
+24201,6,"There is persistent elevation of the right hemidiaphragm, similar in appearance to No pleural effusion or pneumothorax is seen.",abnormal
+5740,8,There is evidence of severe emphysema.,abnormal
+6933,3,"There is no evidence of pneumothorax, pleural effusion, pulmonary edema or focal pneumonia.",abnormal
+27915,4,No pulmonary edema.,abnormal
+12527,4,Heart size is normal with normal cardiomediastinal silhouette.,normal
+17514,0,Right internal jugular central venous catheter tip at junction of the SVC and right atrium.,uncertain
+17018,4,There is no pneumothorax.,abnormal
+675,4,Stable appearance of tracheostomy and left subclavian approach PICC with the catheter tip in the mid SVC.,uncertain
+14145,6,There are no displaced fractures.,uncertain
+19213,7,"Bilateral pleural effusions are moderate in size, and have increased since the prior exam.",abnormal
+8180,4,"Allowing for AP projection, the cardiac silhouette is top-normal in size.",uncertain
+18875,4,Right-sided pigtail catheter in appropriate position.,uncertain
+30039,2,Please correlate with patient history.,uncertain
+14074,6,No definite pneumonia is seen.,abnormal
+8386,4,Diffuse pulmonary opacities are minimally improved on the right and stable on the left.,uncertain
+20635,0,Mild cardiomegaly and mild pulmonary edema.,abnormal
+16287,5,Widespread infiltrative pulmonary opacities are stable from the prior exam.,uncertain
+10854,3,There is stable appearance of mild cardiomegaly.,abnormal
+28275,6,"There may be mild pulmonary vascular congestion, otherwise the hilar and mediastinal contours are normal.",uncertain
+12106,8,Percutaneous transhepatic biliary catheters are seen within the upper abdomen and percutaneous gastrostomy catheter is partially imaged.,uncertain
+13808,6,Enteric tube is seen coursing in an uncomplicated course with its terminal end not visualized but out of the field of view.,uncertain
+17750,1,Left internal jugular vein malpositioned and tip orients cephalad in the upper SVC.,uncertain
+22372,5,Left mid lung opacity is less conspicuous as compared to that on the right.,abnormal
+7754,7,There is possibly a small left pleural effusion.,abnormal
+1448,2,"A nasoenteric tube terminates below the left hemidiaphragm, the tip is not visualized.",uncertain
+11192,7,No large effusion or pneumothorax is present.,abnormal
+27422,0,No significant interval change from the prior study.,uncertain
+7906,0,Progression of severe pulmonary edema with persistent moderate cardiomegaly and new small left pleural effusion with likely small right pleural effusion.,abnormal
+18211,0,Right IJ line tip in the mid SVC.,uncertain
+5992,15,The cardiomediastinal silhouette is normal.,uncertain
+11733,4,Cardiomediastinal silhouette is within normal limits.,uncertain
+25126,2,"There has been interval placement of a right basilar pigtail catheter with substantial interval decrease in the right pleural effusion, which is now moderate in size.",abnormal
+30018,5,A right sided pigtail catheter is in good position.,uncertain
+22360,4,Surgical clips are noted in the upper quadrant.,uncertain
+16971,0,Right IJ catheter ends in the upper right atrium.,uncertain
+15149,1,Stable moderate right pleural effusion.,abnormal
+6832,3,Heart size is normal.,normal
+6097,6,There are some linear densities in the left lower lung base suggestive of atelectasis.,abnormal
+6555,3,The lungs are clear without evidence of focal consolidations concerning for pneumonia.,abnormal
+29501,8,Multilevel degenerative changes are seen in the thoracic spine.,uncertain
+28103,4,"Overall, this appearance has not significantly changed from prior.",uncertain
+17816,1,No pulmonary edema.,abnormal
+16360,1,The tip of the line projects over the middle parts of the subclavian vein.,uncertain
+28060,2,"Two chest tubes are identified, one terminating in the right apex in the other in the right mid lung.",uncertain
+27125,0,"Right PICC line is coiled in the right axilla, similar position compared the prior exam.",uncertain
+20186,4,Cardiac size is normal.,uncertain
+1530,1,"There has been marked interval increase in diffuse interstitial opacities throughout both lungs ,possibly with subtle confluent areas of alveolar opacity.",abnormal
+95,6,No discrete opacities in right lung.,uncertain
+25118,8,"Patchy opacity in the right lower lobe peripherally was present on the prior CT, and again may reflect an area of infection.",abnormal
+13744,0,Limited exam due to low lung volumes no definite confluent consolidation.,abnormal
+2520,9,No bony abnormality.,uncertain
+18465,7,"The right hilus is noted to be more prominent than the left, which can be seen with but is not diagnostic of pulmonary embolism.",uncertain
+22331,9,No definite pleural effusion.,abnormal
+25109,4,Right IJ introducer sheath.,uncertain
+14879,6,The cardiomediastinal silhouette is within normal limits.,uncertain
+12451,1,"Otherwise, no relevant interval change.",uncertain
+30447,0,Stable examination of the chest.,uncertain
+9611,7,An orogastric tube passes into the stomach.,uncertain
+14120,0,"Increase in pulmonary edema, right lower lobe consolidation and right pleural effusion.",abnormal
+5315,4,No acute osseous abnormality is visualized.,normal
+8499,3,An enteric tube traverses through the stomach.,uncertain
+599,7,No air under the right hemidiaphragm is seen.,uncertain
+19147,5,Imaged upper abdomen is unremarkable.,uncertain
+16219,6,Cardiac and mediastinal contours are stable.,uncertain
+27182,8,Left pneumothorax is small.,abnormal
+10563,5,Cardiomegaly is similar to before.,abnormal
+6557,3,Remainder normal,uncertain
+20542,8,Degenerative changes of the right glenohumeral joint with joint space narrowing and osteophytic spurring is present.,uncertain
+16333,3,A right thoracostomy tube and esophageal stent are unchanged in position.,uncertain
+18181,3,No focal consolidation to suggest pneumonia.,abnormal
+15593,4,"It is difficult to evaluate cardiac or mediastinal structures on this limited view; an overlying trauma board including a vertical rod, obscures these structures.",uncertain
+6215,4,"Pleural effusion is small, if any.",abnormal
+26252,0,"Hazy bibasilar opacities, which may represent atelectasis or aspiration in the appropriate clinical setting.",abnormal
+3902,6,There are no acute osseous abnormalities.,uncertain
+14900,6,No right pleural effusion.,abnormal
+21007,5,No pneumothorax identified.,abnormal
+18116,7,The mediastinal and hilar contours are unchanged.,uncertain
+29602,0,No evidence of acute disease.,uncertain
+9003,10,"(Upon discussion with resident, patient had a PEG placed, which may account for this finding.",uncertain
+8599,4,The pulmonary vasculature is mildly congested.,uncertain
+13820,1,No pneumothorax.,abnormal
+23340,3,Right medial basilar pulmonary opacities are better seen on the subsequently obtained chest CT.,uncertain
+26680,3,Moderate loculated right pleural effusion is unchanged since .,abnormal
+17224,2,Lines and tubes are grossly unchanged.,uncertain
+14484,8,Pulmonary vascular congestion and pulmonary edema is also noted but appear mildly improved compared to prior study.,abnormal
+18421,2,Increased vascular markings bilaterally suggest mild vascular congestion with possible mild interstitial edema.,abnormal
+2499,7,Right jugular line is unchanged in position.,uncertain
+25950,2,Cardiomediastinal silhouette is unchanged compared to the prior radiograph.,uncertain
+23553,0,New right IJ central venous catheter with tip likely in the upper right atrium.,uncertain
+30147,4,"No pneumothorax, pneumonia, or pulmonary edema.",abnormal
+9747,9,There are no acute osseous abnormalities.,uncertain
+5387,1,"No evidence of free air beneath the diaphragms, however the patient is semi-erect in position.",uncertain
+26121,3,Opacity in the right mid to lower lung is noted which could represent effusion and adjacent consolidation.,abnormal
+23,4,There is still fluid along the minor fissure and right lower lobe opacification.,uncertain
+79,7,Heart size is likely accentuated due to low lung volumes and patient positioning.,uncertain
+1288,2,Again seen are multiple left-sided rib fractures.,uncertain
+25790,5,No pneumothorax.,abnormal
+27072,2,Cardiac silhouette is mildly enlarged.,abnormal
+23743,5,The cardiac silhouette is obscured by pleural effusions and atelectasis however appears relatively stable.,abnormal
+3273,3,"New, mild to moderate pulmonary edema.",abnormal
+7858,5,Lung volumes are unchanged compared to the prior study.,uncertain
+9179,9,There is been interval removal of the right internal jugular central venous line and nasogastric tube.,uncertain
+1735,8,Visualized osseous structures are unremarkable.,uncertain
+24135,3,"Lungs are moderately inflated, with no focal consolidation, except for a small bibasilar linear opacity likely for minimal atelectasis, especially to left.",abnormal
+19428,5,Bilateral perihilar opacities and bibasilar atelectasis are unchanged in comparison to the prior chest radiograph dated .,abnormal
+29722,1,"AP single-view chest x-ray in upright position shows interval improvement of pulmonary edema, but new right lung base opacity due to atelectasis, probably in the right middle lobe.",abnormal
+26999,5,"Heart is enlarged, mildly more prominent.",abnormal
+26959,2,Lung volume is slightly low.,uncertain
+22014,0,"Interval improvement in pulmonary edema, however the pulmonary edema is still moderate to severe.",abnormal
+29397,0,Decrease in size in pleural effusions which are likely loculated on the left.,abnormal
+2224,6,Median sternotomy wires again noted.,uncertain
+12383,1,COMMENTS: These findings were discussed with Dr.,uncertain
+17251,1,No overt edema.,abnormal
+440,3,"The IABP pump radiopaque tip may be very slightly lower, but remains positioned high, overlying the upper portion of aortic knob.",uncertain
+25018,8,There is increased opacification of the right lung base.,uncertain
+13209,3,Dobhoff tube overlies the expected location of the stomach.,uncertain
+6702,3,Possible small left pleural effusion or superimposed infection.,abnormal
+4260,4,Midline sternotomy wires are again noted.,uncertain
+27582,12,"Fractures of the mid/lower posterior right ribs again noted, presumably old.",uncertain
+2689,1,The catheter terminates remote from the remaining pleural fluid collection while supine.,abnormal
+11975,9,There prosthetic aortic and mitral valves.,uncertain
+9792,7,No pneumothorax or pleural effusion.,abnormal
+8418,4,"While edema has improved elsewhere in the lungs, this area consolidation has worsened and small right pleural effusion has increased, raising the likelihood fact this is pneumonia.",abnormal
+14903,2,No pneumothorax detected.,abnormal
+1468,5,Bibasilar opacities have resolved since prior.,uncertain
+20315,7,"The heart size and mediastinal vasculature is less apparent, likely reflecting improved congestion.",uncertain
+21282,0,No acute intrathoracic process.,uncertain
+7755,3,There is no pneumothorax.,abnormal
+16338,7,Right-sided pleural effusion seen laterally with possible fluid within the fissure projecting as hazy opacity projecting over the right mid lung.,abnormal
+13226,0,Bilateral effusions and bibasilar consolidations larger on the left Cardiac size is normal.,uncertain
+23393,7,There is no pneumothorax.,abnormal
+18361,6,"The position of the right PICC line is constant, at the level of the mid to lower SVC.",uncertain
+29781,2,AP portable upright chest radiograph was provided.,uncertain
+20653,5,"Rightward deviation of the trachea appears slightly more conspicuous than in prior exam, but this may be related to semi-upright position with upward displacement of the mediastinum.",uncertain
+7660,2,No pneumothorax.,abnormal
+24555,4,"As compared to prior chest radiograph from , there has been significant improvement of the left-sided pleural effusion with a small amount of pleural fluid still remaining.",abnormal
+13452,1,Small right hydro pneumothorax.,abnormal
+1735,7,There is no large pleural effusion or pneumothorax.,abnormal
+1562,4,Median sternotomy wires are seen and are unremarkable.,uncertain
+23729,0,Interval placement of right basilar chest tube without substantial interval change in size of large right pleural effusion.,abnormal
+29367,2,"There is a dobhoff coursing below the diaphragm, however the tip is not visualized.",uncertain
+13045,2,There is prominence of the pulmonary vasculature and interstitial opacities compatible with interstitial edema and developing into alveolar edema.,abnormal
+8908,0,Trace bilateral pleural effusions.,abnormal
+22973,2,Lungs are clear bilaterally.,normal
+1836,2,It is difficult to assess for an underlying infiltrate given the amount of effusion.,abnormal
+29764,6,There is mild enlargement of the cardiac silhouette.,uncertain
+9003,5,The tip of a right PICC line terminates in the right atrium.,uncertain
+758,6,There is left base retrocardiac opacity and subtle increased opacity projecting over the left lung which may be due to layering pleural effusion.,abnormal
+16908,1,Findings of mild pulmonary edema.,abnormal
+15670,7,Osseous structures are unremarkable.,uncertain
+22873,3,"Bilateral pleural effusions, mild to moderate right and moderate left, associated with adjacent lung atelectasis are unchanged.",abnormal
+4071,9,"Aortic knob calcifications are mild, unchanged.",uncertain
+9611,5,The patient has been intubated.,uncertain
+24168,3,Small left pleural effusion with basilar atelectasis is also seen.,abnormal
+4726,1,"These findings were discussed with , NP by Dr.",uncertain
+1288,5,The hilar and mediastinal contours remain within normal limits.,uncertain
+9663,2,A left apical pleural tube is in stable position.,abnormal
+13222,1,"This may be pulled back compared to , but remains centrally placed.",uncertain
+7476,4,The mediastinal contours are unremarkable.,uncertain
+6902,3,There is no evidence of pulmonary edema.,abnormal
+2252,1,No pneumothorax.,abnormal
+1184,4,Mediastinum: Cardiomegaly remains unchanged.,abnormal
+30434,4,"No pleural effusion, pneumonia, pneumothorax, pulmonary edema.",abnormal
+1536,2,Stable cardiomediastinal and hilar contours.,uncertain
+8663,5,"Day-to-day changes likely reflect edema, but persistent opacities likely reflect underlying infection and scarring, better seen on CT.",abnormal
+17703,0,ET tube in standard position.,uncertain
+2863,3,Clips in the lower mediastinum/epigastrium are unchanged.,uncertain
+10610,0,No acute cardiopulmonary process.,normal
+9042,0,"Persistent opacification at the right lung base, likely a combination of pleural effusion and pulmonary edema.",abnormal
+16787,6,There is no pneumothorax.,abnormal
+25999,3,Single AP view of the chest provided.,uncertain
+29716,3,AP view of the chest.,uncertain
+9387,3,"Minimal patchy opacity at the right base, with minimal blunting.",abnormal
+15620,5,The cardiac outline is silhouetted by adjacent pleural effusions.,abnormal
+10796,0,Newly placed left IJ catheter tip projects over the expected region of the low SVC.,uncertain
+8798,6,No pneumothorax or effusion.,abnormal
+1453,5,"There is no evidence of pneumonia, edema, effusion or pneumothorax.",abnormal
+4841,0,Interval improvement in bibasilar linear opacities with persistent low lung volumes and unchanged cardiomegaly.,abnormal
+24612,0,Mild interval increase in pulmonary edema.,abnormal
+14979,4,Cardiomediastinal silhouette is notable for enlargement of the central venous structures.,uncertain
+14129,3,Postoperative changes from laminectomy are again visualized.,uncertain
+1780,1,Single frontal view of the chest.,uncertain
+4234,1,Resolved left upper lobe opacity.,abnormal
+13682,5,"Nasogastric tube courses below the hemidiaphragm, tip not visualized.",uncertain
+17521,3,More focal opacity at the right upper lobe also appears minimally improved in comparison to the prior study.,abnormal
+4103,5,The pulmonary vasculature is normal.,uncertain
+23089,4,Pulmonary vasculature is normal.,uncertain
+6702,5,An NG tube courses right to the GE junction and should be advanced.,uncertain
+19994,3,Linear atelectasis is noted at the left base.,abnormal
+12055,1,A nasogastric tube is coiled within the stomach.,uncertain
+8606,6,There are low lung volumes.,uncertain
+25950,3,Lines and tubes also remain unchanged compared to the prior radiograph.,uncertain
+6996,1,No pneumothorax.,abnormal
+22988,3,An enteric tube tip is within the stomach.,uncertain
+27029,8,No acute osseous abnormality is detected.,normal
+4053,4,There is no pleural effusion or pneumothroax.,abnormal
+12778,4,A right pleural tube enters the right lateral chest wall and appears somewhat kinked along its upper curvature.,abnormal
+7459,1,Emphysematous changes are noted.,uncertain
+20583,1,Mild to moderate pulmonary edema.,abnormal
+2810,2,There are increased lung markings in the right lower lobe and left upper lobe with a slightly nodular pattern of unclear etiology.,uncertain
+13596,4,"A any enteric tube terminates in the distal esophagus, and recommend further advancement.",uncertain
+23063,0,No acute cardiopulmonary process.,normal
+17189,0,"Severe cardiomegaly with moderate pulmonary edema, worse in the interval, and small bilateral pleural effusions.",abnormal
+4825,2,There is no significant change from .,uncertain
+19422,7,No pleural effusion or pneumothorax is present.,abnormal
+19178,5,The heart is otherwise within normal limits.,uncertain
+16342,3,Cardiac and mediastinal silhouettes are normal.,uncertain
+12568,1,The heart size is within normal limits.,uncertain
+1453,4,Emphysema is noted with basilar linear opacities likely representing atelectasis and scarring.,abnormal
+19081,7,There is no pneumothorax.,abnormal
+23139,8,"There is continued diffuse interstitial and alveolar opacities, perhaps minimally improved in the interval, compatible with mild pulmonary edema.",abnormal
+27889,3,Normal cardiomediastinal and hilar contours.,uncertain
+5103,7,No free air seen below the diaphragm.,uncertain
+24552,2,AP portable upright view of the chest.,uncertain
+19974,3,"There is diffuse interstitial prominence, likely due to the known lymphangitic metastatic disease.",abnormal
+6384,4,"The left costophrenic angle is somewhat blunted, which may reflect a small pleural effusion versus chronic scarring.",abnormal
+18787,4,"Extensive pulmonary ground-glass opacities are concerning for pulmonary edema, likely neurogenic cause.",abnormal
+21384,3,"Enteric tube is seen within the esophagus but is kinked and tip extends superiorly, projecting over the level of the aortic arch.",uncertain
+2621,2,Left-sided AICD with lead following its expected course to the right ventricle.,uncertain
+29667,6,The heart may be minimally enlarged.,abnormal
+15246,1,There has been interval placement of a right-sided internal jugular venous catheter.,uncertain
+13768,1,No evidence of pneumonia.,abnormal
+8685,7,There is no free air below the right hemidiaphragm.,uncertain
+1394,4,"More prominent right basilar opacity, likely atelectasis.",abnormal
+27843,3,Bibasilar atelectasis is present.,abnormal
+23758,0,Clear lungs without evidence of pneumonia.,abnormal
+7271,4,There is no pleural effusion or pneumothorax.,abnormal
+27860,3,The heart and mediastinum are within normal limits.,uncertain
+5726,1,No pneumothorax.,abnormal
+20134,5,There is no pneumothorax.,abnormal
+12979,5,Cardiomediastinal silhouette is stable.,uncertain
+14593,0,Dobbhoff tube with tip coiled in the stomach.,uncertain
+12118,1,Portable frontal chest radiograph demonstrates low lung volumes.,uncertain
+25290,2,Mild pulmonary vascular congestion.,uncertain
+18379,0,Satisfactory placement of the ET tube with no other interval changes.,uncertain
+22938,1,Single portable view of the chest.,uncertain
+16213,0,No change.,uncertain
+7202,2,Trace left pleural effusion may be present.,abnormal
+1579,8,Stents are identified in the upper abdomen as on prior exam.,uncertain
+17058,8,There is suggestion of prior healed lateral left rib fractures.,uncertain
+22584,0,Unchanged appearances of a large left pleural effusion with associated compressive atelectasis.,abnormal
+584,3,Known acute left lower limb fracture is not well appreciated on current study.,abnormal
+24694,3,Mild retrocardiac opacities likely reflect atelectasis.,abnormal
+21830,1,Bibasilar atelectasis.,abnormal
+4137,4,Pulmonary vasculature is not engorged.,uncertain
+26077,5,No free air below the right hemidiaphragm is seen.,uncertain
+27940,5,"The there are unchanged extensive bilateral parenchymal opacities, right worse than left.",uncertain
+19082,9,There is no pleural effusion.,abnormal
+17870,6,Minimal right lower lung atelectasis is not significantly changed.,abnormal
+26953,5,Bilateral opacities are not worsened compared to the radiographs from but are improved compared to the radiographs from .,uncertain
+13415,2,The ET tube is in unchanged position.,uncertain
+28731,0,The cardiomediastinal shadow is unchanged.,uncertain
+15315,4,The previously seen multi focal parenchymal opacities within the right lung are improved on this study.,uncertain
+8642,2,"NG tube tip lies beneath the left hemidiaphragm, presumably in the gastric fundus.",uncertain
+3969,17,"Again seen is opacity at the left base grossly similar to the prior film, a probable slightly improved.",abnormal
+13127,7,There is no pleural effusion or pneumothorax.,abnormal
+19281,8,No pleural effusion or pneumothorax is identified.,abnormal
+28872,1,No pneumothorax.,abnormal
+26794,3,Portable frontal chest radiograph demonstrates well-expanded and clear lungs.,uncertain
+28738,9,Cardiomediastinal silhouette is difficult to assess given rotation and left base opacity.,abnormal
+23122,6,"A nasogastric tube courses through the esophagus, into the stomach, and terminates on the right side, likely in the gastric antrum or first part of the duodenum.",uncertain
+23146,9,There are no pleural effusions or pneumothorax.,abnormal
+6718,9,Mediastinal silhouette and hilar contours are normal allowing for low lung volumes.,uncertain
+21233,3,There is no pleural effusion or pneumothorax.,abnormal
+16775,2,The lungs are clear without infiltrate or effusion.,abnormal
+25287,0,Status post endotracheal and endogastric tube removal without evidence of complication or other change.,uncertain
+22577,1,Interval decrease in pulmonary edema as well as left small effusion.,abnormal
+3129,5,Right pleural effusion is slightly improved from .,abnormal
+6829,6,Appearance of the lungs and cardiomediastinal silhouette is otherwise unchanged.,uncertain
+15685,0,Stable left lower lobe collapse and moderate left pleural effusion.,abnormal
+26390,2,"Right PICC line tip not well seen, likely near cavoatrial junction.",uncertain
+26543,2,Enteric tube terminates in the body of the stomach.,uncertain
+7305,0,New tiny right apical pneumothorax.,abnormal
+21922,0,"Faint patchy opacity at left greater right bases - diagnosis includes atelectasis, foci of aspiration pneumonitis, or less likely an early pneumonic infiltrate.",abnormal
+16080,2,"Otherwise the pleural effusions, bibasilar atelectasis and cardiomegaly are stable in appearance.",abnormal
+24047,6,Sternal wires are intact.,uncertain
+18690,4,"Associated reduced left lung volume, which otherwise appears clear.",uncertain
+22938,2,No prior.,uncertain
+18674,2,The lungs are clear of confluent consolidation.,abnormal
+23562,4,There is crowding of the bronchovascular structures with mild pulmonary vascular congestion.,uncertain
+22711,1,"No focal consolidation, pleural effusion or pneumothorax identified.",abnormal
+2800,1,Please correlate with results of CTA-Chest from .,uncertain
+23517,12,"As compared to prior chest radiograph from , interval worsening of left perihilar opacity is concerning for pneumonia or aspiration.",abnormal
+23750,10,No other new pulmonary abnormalities are seen.,uncertain
+19861,4,"Portable semi-upright radiograph of the chest demonstrates low lung volumes and bibasilar atelectasis, which is new over the interval.",abnormal
+17390,2,Results were paged to Dr.,uncertain
+22916,3,Slight increased soft tissue nodularity superior to the left hilus is present.,uncertain
+3662,3,"However, an underlying infection cannot be excluded.",uncertain
+17452,5,There is no pneumothorax.,abnormal
+327,8,There is moderate pulmonary edema which appears similar when compared to the prior exam.,abnormal
+1928,0,Suboptimal radiograph secondary to patient positioning with obscuration of the left lower lobe.,uncertain
+24117,1,"Otherwise, no significant change from prior exam.",uncertain
+7786,3,"The cardiomediastinal and hilar contours are stable with moderate cardiomegaly involving the right atrium, the left atrium, and the left ventricle.",abnormal
+5170,5,There is no pneumothorax.,abnormal
+24576,3,Increased airspace opacification at the right base is worrisome for new aspiration or pneumonia.,abnormal
+30030,1,Since the prior study the right PICC is been removed.,uncertain
+24374,0,No change.,uncertain
+19995,1,No pneumothorax.,abnormal
+23182,0,"Reappearance of right basilar opacification suggests ongoing aspiration, although infectious process cannot be excluded.",uncertain
+14017,3,Doubt overt CHF.,uncertain
+4425,6,No pneumothorax or consolidation seen.,abnormal
+19706,4,Cardiomediastinal silhouette and hilar contours are within normal limits.,uncertain
+1410,6,Lungs are otherwise clear without focal consolidation.,abnormal
+23656,2,Lung volumes are decreased accentuating the bronchovascular structures.,uncertain
+491,2,Heart size and mediastinal contours are normal.,uncertain
+16946,1,New subsegmental atelectasis in the right lower lobe.,abnormal
+10550,1,Tracheostomy in appropriate position.,uncertain
+22463,2,Recommend dedicated PA and lateral chest radiograph to confirm.,uncertain
+26546,10,No acute osseous abnormalities seen.,uncertain
+10,0,Interval increase inmoderate to large right and small left pleural effusions.,abnormal
+8410,11,No pneumothorax seen outside of the fluid collection.,abnormal
+26777,0,Decreased size of moderate right pleural effusion status post thoracentesis.,abnormal
+14626,4,Right-sided central venous catheter terminates in the mid the low SVC without evidence of pneumothorax.,abnormal
+10125,5,Moderate cardiomegaly is noted.,abnormal
+26636,12,Surgical clips upper abdomen.,uncertain
+15064,1,"Hyperinflated lungs, consistent with the stated history of COPD.",uncertain
+8418,5,Moderate cardiomegaly and mild pulmonary vascular congestion are chronic.,abnormal
+9042,4,There is no pneumothorax.,abnormal
+7869,5,"Slight left cardiophrenic blunting, may represent a small amount of left pleural fluid.",abnormal
+1836,3,There is mild pulmonary vascular redistribution.,uncertain
+24236,2,Esophageal tube is with the side port and tip beyond the gastroesophageal junction.,uncertain
+24650,3,"There is no pneumothorax, pleural effusion, or focal consolidation.",abnormal
+14424,10,"Lung volume is still low with reduction of right pleural effusion, now small.",abnormal
+9000,6,Additional chain sutures seen in the right mid to lower lung laterally.,uncertain
+16887,4,by Dr.,uncertain
+20472,1,Retrocardiac opacity is likely atelectasis.,abnormal
+25776,2,Otherwise no significant interval change.,uncertain
+21001,7,No gross pneumothorax is seen.,abnormal
+18189,4,There is interstitial edema with increased lung markings.,abnormal
+12325,3,Heart size is normal.,normal
+7270,6,No pleural effusion or pneumothorax is seen.,abnormal
+15373,0,No significant change to the appearance of the lungs.,uncertain
+12495,9,There is volume loss in the perihilar region,uncertain
+19153,8,No acute osseous abnormality.,normal
+21335,0,New ETT in standard position.,uncertain
+20002,4,No areas of consolidation are seen.,abnormal
+9747,6,Heart size is stable.,uncertain
+16520,3,The heart size is normal.,normal
+15471,2,Midline sternotomy wires and mediastinal clips are again noted.,uncertain
+13838,2,There has been interval removal of a left chest tube.,uncertain
+23946,3,Heart size is normal.,normal
+21276,0,No significant interval change.,uncertain
+20235,17,Bullous change in the right paratracheal region.,uncertain
+20701,7,"Within the limitations of the supine technique, there is no evidence of pneumothorax.",abnormal
+18787,1,Severe pulmonary edema.,abnormal
+1383,3,There is no plueral effusion Heart size persists enlarged.,abnormal
+24717,4,There is no pulmonary edema or large pleural effusion.,abnormal
+16700,3,The heart remains moderately enlarged.,abnormal
+24444,8,No large pleural effusion is seen.,abnormal
+7099,0,Emphysema without superimposed acute process.,abnormal
+10549,3,"Given this, the cardiac and mediastinal silhouettes are stable.",uncertain
+3690,9,Pulmonary edema has improved.,abnormal
+20686,5,There is no focal consolidation.,abnormal
+8761,4,Airspace opacity adjacent to the right heart border is also unchanged.,abnormal
+13808,2,The lungs appear unchanged with bilateral patchy opacities.,uncertain
+10078,1,Compete evaluation of orogastric tube positioning could also be obtained with future imaging.,uncertain
+1886,8,Cardiomegaly is unchanged.,abnormal
+15689,4,Patient has chronic interstitial lung disease.,abnormal
+25139,5,Right lateral third rib fracture is again seen.,abnormal
+19037,5,"The hilar contours are unremarkable, and there is no pulmonary edema.",abnormal
+22320,5,Tracheostomy.,uncertain
+14833,1,"The lungs are clear without focal opacity, pleural effusion or pneumothorax.",abnormal
+15907,0,"Limited exam, but no large consolidation.",abnormal
+4922,3,"Enteric tube courses below the diaphragm, terminating in the left upper quadrant.",uncertain
+30381,3,There is mild to moderate pulmonary edema.,abnormal
+12020,8,Subtle perihilar opacities could represent bronchovascular crowding though the possibility of mild edema is not excluded.,abnormal
+11959,0,Vague a lingular opacity although not very striking.,abnormal
+8697,6,No pleural effusion.,abnormal
+17373,4,"An ovoid density projects over the right upper lobe, likely external to the patient.",uncertain
+2489,1,No acute cardiopulmonary process.,normal
+6395,2,Two right pigtail catheters are in place.,uncertain
+24951,5,Left pleural effusion is small.,abnormal
+28272,10,There is no evidence of pulmonary vascular congestion or pulmonary edema.,abnormal
+23215,4,Heart size and cardiomediastinal contours are normal.,uncertain
+24846,5,"No new focal consolidation, pleural effusion, or pneumothorax.",abnormal
+229,5,The heart size is normal.,normal
+10772,0,Mildly increased opacities in the right lung may reflect underlying pneumonia.,abnormal
+22081,0,Unchanged moderate cardiomegaly with moderate-to-severe pulmonary edema.,abnormal
+12686,3,with Dr.,uncertain
+15279,5,No pleural effusion or pneumothorax is seen.,abnormal
+2268,0,Interval increase in the bilateral mild-to-moderate pulmonary edema.,abnormal
+10001,8,Cardiac size is moderately enlarged with changes of prior coronary bypass graft noted.,abnormal
+4299,8,Stent in the right mainstem bronchus is faintly visible.,uncertain
+13411,3,The lungs are clear and pleural surfaces are normal.,abnormal
+18171,3,Lung volumes are low.,uncertain
+10505,9,Cardiomediastinal silhouette is stable.,uncertain
+24295,4,Surgical material in the right lung in keeping with previous resection.,uncertain
+29284,5,Left-sided internal jugular line ends at upper SVC.,uncertain
+29781,8,Bony structures are intact.,uncertain
+19474,3,The mediastinal and hilar contours are normal.,uncertain
+17285,2,"There is increased interstitial opacification bilaterally, in a relatively symmetric distribution, indicative pulmonary edema and a small effusion along the lateral aspect of the right lung.",abnormal
+29087,1,Cardiomegaly and mediastinal contours are stable.,abnormal
+17526,3,Heart size is enlarged and larger than on the prior study.,abnormal
+6689,1,Two frontal images of the chest again demonstrate opacification in the left lower lobe with some volume loss.,uncertain
+15064,4,The hilar and cardiomediastinal contours are normal.,uncertain
+13121,3,There is a small right pleural effusion.,abnormal
+7869,7,"New somewhat ill defined central predominately interstitial infiltrate, may represent cardiogenic or neurogenic pulmonary edema.",abnormal
+27218,1,The right IJ central venous catheter has been removed.,uncertain
+17174,7,Multiple bilateral healed rib fractures and bilateral humerus hardware is partially visualized.,uncertain
+27748,3,Streaky right lower lobe opacity may reflect atelectasis or additional site of developing infarction.,abnormal
+29408,2,There is again seen a left chest tube in stable position.,uncertain
+22443,4,"Left chest wall mass causing bony destruction, better seen on recent PET-CT.",abnormal
+23464,0,No change.,uncertain
+3414,6,Chronic elevation of left diaphragmatic surface.,uncertain
+6894,0,"Mild pulmonary edema, slightly improved in the interval, with relatively unchanged small bilateral pleural effusions, left greater than right.",abnormal
+3282,0,"Mediastinal venous engorgement, and mild pulmonary edema.",abnormal
+13272,7,Previously noted aneurysmal dilatation of the descending thoracic aorta is better assessed on CT.,uncertain
+9569,0,Small right apical pneumothorax Placement of right chest tube Subactelectasis of the lingula Bilateral pleural effusion Minimal right apical pneumothorax.,abnormal
+12468,5,The left lung has a stable appearance.,uncertain
+26588,4,Cardiac and mediastinal silhouettes are stable and unremarkable.,uncertain
+13688,6,"These opacities likely represent atelectasis, but cannot exclude pneumonia or aspiration in the right clinical setting.",abnormal
+26309,5,Mild pulmonary vascular congestion is improved.,uncertain
+29699,9,Portable supine chest film at is submitted.,uncertain
+15125,4,One portable AP upright view of the chest.,uncertain
+19082,7,There is no pneumothorax.,abnormal
+20083,4,by Dr.,uncertain
+9747,3,"There is a small residual left apical pneumothorax, which is also unchanged.",abnormal
+27996,2,"As compared to chest radiograph from the same day, overall no substantial change of the right lung.",uncertain
+18267,7,The heart size is normal.,normal
+21418,5,Subcutaneous emphysema is noted along the right lateral chest wall along the course of the catheter.,abnormal
+4629,0,"Bilateral pleural effusions, left larger than right, with left basilar atelectasis.",abnormal
+30054,0,No evidence of hemothorax on radiograph.,uncertain
+16801,2,"No focal consolidation, pleural effusion or pneumothorax identified.",abnormal

@@ -11,8 +11,6 @@ The project trains a 3-class classifier for:
 
 using publicly available MIMIC-CXR report text and weak rule-based labels.
 
-⸻
-
 ## Repository Structure
 
 DL4H-finalproject/
@@ -56,8 +54,6 @@ Bio_ClinicalBERT + class-weighted cross-entropy
 	•	Macro F1: 0.9997
 	•	Loss: 0.00030
 
-⸻
-
 Ablation 1 — No Class Weights
 
 Same model and hyperparameters as baseline; loss changed to standard cross-entropy.
@@ -67,8 +63,6 @@ Same model and hyperparameters as baseline; loss changed to standard cross-entro
 
 Shows a small but measurable degradation without weights.
 
-⸻
-
 Ablation 2 — RoBERTa-base Encoder
 
 Encoder replaced with roberta-base.
@@ -77,8 +71,6 @@ Encoder replaced with roberta-base.
 	•	Loss: 0.00078
 
 Performs slightly worse than Bio_ClinicalBERT.
-
-⸻
 
 ## How to Run
 

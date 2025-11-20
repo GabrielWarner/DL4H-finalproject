@@ -11,40 +11,6 @@ The project trains a 3-class classifier for:
 
 using publicly available MIMIC-CXR report text and weak rule-based labels.
 
-## Repository Structure
-
-DL4H-finalproject/
-│
-├── data/                        → Mini versions of train/val/test used for structure
-│   ├── train_mini.csv
-│   ├── val_mini.csv
-│   └── test_mini.csv
-│
-├── notebook/                   → Main experiment notebooks
-│   ├── baseline_ce.ipynb           (Bio_ClinicalBERT + class weights)
-│   ├── baseline_ce_no_weights.ipynb (Ablation 1: no class weights)
-│   └── baseline_ce_roberta.ipynb    (Ablation 2: RoBERTa-base)
-│
-├── results/
-│   ├── baseline/               → Results for main experiment
-│   │   ├── baseline_loss_curve.png
-│   │   ├── test_metrics.csv
-│   │   └── test_metrics.json
-│   │
-│   ├── ablation_no_weights/    → Ablation 1: class weights removed
-│   │   ├── no_weights_loss_curve.png
-│   │   ├── test_metrics.csv
-│   │   └── test_metrics.json
-│   │
-│   └── ablation_roberta/       → Ablation 2: RoBERTa-base encoder
-│       ├── loss_curve_roberta.png
-│       ├── test_metrics.csv
-│       └── test_metrics.json
-│
-├── pyhealth_example.py          → Template from original project (not used directly)
-├── README.md                    → This file
-└── .gitignore
-
 ## Experiments
 
 Baseline Model

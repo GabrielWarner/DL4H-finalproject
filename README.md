@@ -38,15 +38,61 @@ Encoder replaced with roberta-base.
 
 Performs slightly worse than Bio_ClinicalBERT.
 
-## How to Run
+## Reproducibility Commands
 
-Upload the full dataset CSVs into:
+1. Clone the repository
+
+Run the following commands in your terminal:
+
+git clone https://github.com/GabrielWarner/DL4H-finalproject.git
+cd DL4H-finalproject
+
+2. Prepare the data directory (Google Drive)
+
+Create the folder:
+
 /content/drive/MyDrive/DL4H_data/
 
-Then open any notebook under /notebook/ and run all cells.
-Each run automatically exports:
-	•	test_metrics.json
-	•	test_metrics.csv
-	•	loss_curve.png
+Upload the full dataset files into this folder:
+	•	train.csv
+	•	val.csv
+	•	test.csv
 
-into the correct results/ subfolder.
+Each file must include the columns:
+	•	report_id
+	•	sentence_id
+	•	text
+	•	label
+
+3. Run the three experiment notebooks
+
+Open and run all cells in:
+
+notebook/baseline_ce.ipynb
+notebook/baseline_ce_no_weights.ipynb
+notebook/baseline_ce_roberta.ipynb
+
+Each notebook will:
+	•	load data from /content/drive/MyDrive/DL4H_data/
+	•	train for 3 epochs
+	•	evaluate on the test set
+	•	save output files into results/
+
+4. Expected output files
+
+After running all three notebooks, your directory will contain:
+
+results/baseline/
+• test_metrics.json
+• test_metrics.csv
+• baseline_loss_curve.png
+
+results/no_weights/
+• test_metrics.json
+• test_metrics.csv
+• baseline_loss_curve_no_weights.png
+
+results/roberta/
+• test_metrics.json
+• test_metrics.csv
+• baseline_loss_curve_roberta.png

@@ -40,14 +40,14 @@ Performs slightly worse than Bio_ClinicalBERT.
 
 ## Reproducibility Commands
 
-1. Clone the repository
+### 1. Clone the repository
 
 Run the following commands in your terminal:
 
 git clone https://github.com/GabrielWarner/DL4H-finalproject.git
 cd DL4H-finalproject
 
-2. Prepare the data directory (Google Drive)
+### 2. Prepare the data directory (Google Drive)
 
 Create the folder:
 
@@ -64,7 +64,7 @@ Each file must include the columns:
 	•	text
 	•	label
 
-3. Run the three experiment notebooks
+### 3. Run the three experiment notebooks
 
 Open and run all cells in:
 
@@ -78,7 +78,7 @@ Each notebook will:
 	•	evaluate on the test set
 	•	save output files into results/
 
-4. Expected output files
+### 4. Expected output files
 
 After running all three notebooks, your directory will contain:
 

@@ -1,6 +1,6 @@
 # DL4H-finalproject
 
-Sentence-Level Radiology Classification Reproduction Study
+## Sentence-Level Radiology Classification Reproduction Study
 
 This repository contains the code, data samples, and experimental results for a reproducibility study of sentence-level radiology report classification using Bio_ClinicalBERT, following the modeling component of a secure radiology triage system.
 

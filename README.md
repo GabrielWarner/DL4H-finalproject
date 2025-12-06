@@ -1,98 +1,98 @@
-# DL4H-finalproject
+# DL4H Final Project: Radiology Sentence-Level Classification
 
-## Sentence-Level Radiology Classification Reproduction Study
+This repository contains the code and notebooks for reproducing the sentence-level radiology classification component from:
 
-This repository contains the code, data samples, and experimental results for a reproducibility study of sentence-level radiology report classification using Bio_ClinicalBERT, following the modeling component of a secure radiology triage system.
+**_Integrating ChatGPT into Secure Hospital Networks: A Case Study on Improving Radiology Report Analysis_**
 
-The project trains a 3-class classifier for:
-	•	normal
-	•	abnormal
-	•	uncertain
+UIUC CS598 DL4H — Fall 2025  
+Author: **Gabriel Warner (gsw3)**
 
-using publicly available MIMIC-CXR report text and weak rule-based labels.
+---
 
-## Experiments
+## Overview
 
-Baseline Model
+The goal of this project is to reproduce a 3-way radiology sentence classifier that labels sentences as:
 
-Bio_ClinicalBERT + class-weighted cross-entropy
-	•	Accuracy: 0.9999
-	•	Macro F1: 0.9997
-	•	Loss: 0.00030
+- **Normal**
+- **Abnormal**
+- **Uncertain**
 
-Ablation 1 — No Class Weights
+The reproduction focuses only on the sentence-level classification module from the original paper, using **Bio_ClinicalBERT** fine-tuned on weakly labeled MIMIC-CXR text.
 
-Same model and hyperparameters as baseline; loss changed to standard cross-entropy.
-	•	Accuracy: 0.99987
-	•	Macro F1: 0.99920
-	•	Loss: 0.00083
+Three experimental configurations are included:
 
-Shows a small but measurable degradation without weights.
+- **Baseline:** 3-class weighted cross-entropy  
+- **Ablation 1:** Remove class weigts  
+- **Ablation 2:** Use RoBERTa-base instead of Bio_ClinicalBERT
 
-Ablation 2 — RoBERTa-base Encoder
+---
 
-Encoder replaced with roberta-base.
-	•	Accuracy: 0.99980
-	•	Macro F1: 0.99960
-	•	Loss: 0.00078
+## Repository Structure
 
-Performs slightly worse than Bio_ClinicalBERT.
+.
+├── data/
+│   ├── train_mini.csv
+│   ├── val_mini.csv
+│   └── test_mini.csv
+│
+├── notebook/
+│   ├── baseline_ce.ipynb
+│   ├── baseline_ce_no_weights.ipynb
+│   └── baseline_ce_roberta.ipynb
+│
+├── results/
+│   ├── baseline/
+│   │   ├── baseline_loss_curve.png
+│   │   ├── test_metrics.csv
+│   │   └── test_metrics.json
+│   │
+│   ├── ablation_no_weights/
+│   │   ├── loss_curve_no_weights.png
+│   │   ├── no_weights_loss_curve.png
+│   │   ├── test_metrics.csv
+│   │   └── test_metrics.json
+│   │
+│   └── ablation_roberta/
+│       ├── loss_curve_roberta.png
+│       ├── test_metrics.csv
+│       └── test_metrics.json
+│
+├── pyhealth_example.py
+├── README.md
+└── .gitignore
 
-## Reproducibility Commands
 
-### 1. Clone the repository
+---
 
-Run the following commands in your terminal:
+## Environment (Colab)
 
-git clone https://github.com/GabrielWarner/DL4H-finalproject.git
-cd DL4H-finalproject
+All experiments were run in **Google Colab** with pinned versions:
 
-### 2. Prepare the data directory (Google Drive)
+transformers==4.57.2
+datasets==2.21.0
+evaluate==0.4.3
 
-Create the folder:
 
-/content/drive/MyDrive/DL4H_data/
+The exact Python and PyTorch versions are logged inside each notebook.
 
-Upload the full dataset files into this folder:
-	•	train.csv
-	•	val.csv
-	•	test.csv
+---
 
-Each file must include the columns:
-	•	report_id
-	•	sentence_id
-	•	text
-	•	label
+## Data Format
 
-### 3. Run the three experiment notebooks
+Your CSV files must contain:
 
-Open and run all cells in:
+report_id
+sentence_id
+text
+label
 
-notebook/baseline_ce.ipynb
-notebook/baseline_ce_no_weights.ipynb
-notebook/baseline_ce_roberta.ipynb
 
-Each notebook will:
-	•	load data from /content/drive/MyDrive/DL4H_data/
-	•	train for 3 epochs
-	•	evaluate on the test set
-	•	save output files into results/
+Place them under `./data/` when running locally.
 
-### 4. Expected output files
+---
 
-After running all three notebooks, your directory will contain:
+## How to Run
 
-results/baseline/
-• test_metrics.json
-• test_metrics.csv
-• baseline_loss_curve.png
+Open notebook in Google Colab and run all cells. Setup cells will install the correct package versions.
 
-results/no_weights/
-• test_metrics.json
-• test_metrics.csv
-• baseline_loss_curve_no_weights.png
 
-results/roberta/
-• test_metrics.json
-• test_metrics.csv
-• baseline_loss_curve_roberta.png
